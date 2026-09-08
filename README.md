@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website showcasing my work, technical sk
 
 ## 🌐 Live Website
 
-**[View Portfolio](#)**
+**[View Portfolio](https://srijan-portfolio-7530b.web.app)**
 
 
 ---
